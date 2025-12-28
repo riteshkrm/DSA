@@ -6,8 +6,6 @@ using namespace std;
 //  * * * * *  --- Row1
 //  * * * * *  --- Row2
 
-
-
 int main(){
 
     // Outer loop For Row Printing
